@@ -211,3 +211,7 @@ End-to-end walkthroughs in `examples/`:
 - `scripts/R/` — 5 runnable R/tidyverse/ggplot2 starters
 - `scripts/python/` — 5 runnable Python/pandas/matplotlib starters
 - `examples/` — 3 end-to-end worked examples
+
+## Companion skill
+
+For design-stage scaffolding (research question, design, case selection, methods justification, ethics, write-up) following Christopher Lamont's *Research Methods in International Relations* (2nd ed., 2021), see `skills/lamont-ir-research-methods/`. Fill in templates 04 (research design) and 06 (methods justification) **before** opening the COW data.

@@ -23,3 +23,7 @@ venv/
 .vscode/
 .idea/
 *.swp
+
+# Copyrighted third-party PDFs (kept local, not redistributed)
+708881781-Research-Methods-in-International-Relations-2nd-Ed-230623-082354.pdf
+arms_technology_data.pdf
