@@ -1,0 +1,48 @@
+Correlates of War Skills
+Copyright (c) 2026 Estanislao Molinas
+
+Scope of this license:
+This license covers the contents of `skills/cow-arms-technology-analysis/`
+(SKILL.md, references/, scripts/, examples/) and `README.md` in this
+repository.
+
+The data files in `ArmsTechnologyV1/` (CSV, Stata, PDF) are the work of
+Hariri, J. G., & Wingender, A. M. (2025). They are NOT covered by this
+license. Refer to their documentation for terms governing the use of the
+underlying dataset.
+
+================================================================================
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+SPDX-License-Identifier: CC-BY-NC-4.0
+
+You are free to:
+
+  Share — copy and redistribute the material in any medium or format.
+  Adapt — remix, transform, and build upon the material.
+
+Under the following terms:
+
+  Attribution — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made. You may do so in any
+    reasonable manner, but not in any way that suggests the licensor
+    endorses you or your use.
+
+  NonCommercial — You may not use the material for commercial purposes.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license
+permits.
+
+Full legal code:
+  https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Plain-language summary:
+  https://creativecommons.org/licenses/by-nc/4.0/
+
+================================================================================
+
+For commercial licensing inquiries, contact:
+  estanislao.molinasir@gmail.com

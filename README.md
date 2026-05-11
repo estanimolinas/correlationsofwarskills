@@ -100,14 +100,27 @@ Found a trap the skill doesn't cover, or a convention that should be revised? Op
 - Suggestions for additional worked examples
 - Edge cases the skill mishandles
 
-Pull requests are not accepted at this time (see License below).
-
 ## License and use
 
-The contents of this repository — `SKILL.md`, the references, scripts, and worked examples in `skills/cow-arms-technology-analysis/`, and `README.md` — are © Estanislao Molinas. **All rights reserved.**
+The skill contents in this repository — everything under `skills/cow-arms-technology-analysis/` plus this `README.md` — are © Estanislao Molinas (2026) and released under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
-The repository is publicly visible for transparency and to let IR researchers consult and learn from the conventions documented here. No license is granted for redistribution, modification, republication, or commercial reuse of the skill content without prior written permission from the author.
+In plain terms — **scholars are free to**:
 
-The underlying dataset in `ArmsTechnologyV1/` is the work of Hariri & Wingender (2025) and is not the author's to license. Cite their manuscript when using the data:
+- Use the skill, scripts, and references in their own research, dissertations, and teaching
+- Adapt and remix the patterns for their own analyses
+- Share the skill with colleagues and students
+- Redistribute it as part of replication packages for academic publications
+
+In return, **two requirements**:
+
+1. **Attribution.** Credit the author and link back to this repository. A suggested form for academic work:
+
+   > Molinas, E. (2026). *Correlates of War Skills: cow-arms-technology-analysis*. GitHub repository: https://github.com/estanimolinas/correlationsofwarskills.
+
+2. **Non-commercial use only.** The skill content may not be used for commercial purposes — no repackaging into paid courses, paid consultancy deliverables, commercial training materials, or for-profit republication. For commercial licensing, contact the author at estanislao.molinasir@gmail.com.
+
+Full license terms: see `LICENSE` in the repository root, or https://creativecommons.org/licenses/by-nc/4.0/.
+
+The underlying dataset in `ArmsTechnologyV1/` is the work of Hariri & Wingender (2025) and is **not** covered by this license. Cite their manuscript when using the data:
 
 > Hariri, J. G., & Wingender, A. M. (2025). *A new data set on arms technology adoption 1816–2023*. Unpublished manuscript.
