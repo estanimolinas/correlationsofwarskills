@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Claude Code local state
+.claude/
+
+# Script outputs (regenerable)
+**/output/
+
+# R
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editor
+.vscode/
+.idea/
+*.swp
