@@ -1,11 +1,11 @@
 ---
 name: lamont-ir-research-methods
-description: Use when designing, planning, or writing up an IR research project using Christopher Lamont's *Research Methods in International Relations* (2nd ed., SAGE 2021) — positioning epistemology (positivist / post-positivist / interpretivist / critical), framing a research puzzle and question, building a literature review matrix, drafting a research design, justifying case selection (Mill's methods, typical/deviant/most-similar/most-different), choosing between qualitative / quantitative / mixed methods, completing a research-ethics checklist, or outlining a paper for an IR journal. Ships 8 fill-in templates aligned to Lamont's pipeline.
+description: Use when designing, planning, or writing up an IR research project using Christopher Lamont's *Research Methods in International Relations* (2nd ed., SAGE 2022) — positioning epistemology (positivist / post-positivist / interpretivist / critical), framing a research puzzle and question, building a literature review matrix, drafting a research design, justifying case selection (Mill's methods, typical/deviant/most-similar/most-different), choosing between qualitative / quantitative / mixed methods, completing a research-ethics checklist, or outlining a paper for an IR journal. Ships 8 fill-in templates aligned to Lamont's pipeline.
 ---
 
 # Lamont IR Research Methods
 
-A templates-driven companion for IR researchers (PhD and Master's students) following the research workflow in Christopher Lamont, *Research Methods in International Relations* (2nd ed., SAGE Publications, 2021). The skill paraphrases and operationalizes Lamont's framework — it does **not** redistribute the book's text. Scholars should own or borrow a copy.
+A templates-driven companion for IR researchers (PhD and Master's students) following the research workflow in Christopher Lamont, *Research Methods in International Relations* (2nd ed., SAGE Publications, 2022). The skill paraphrases and operationalizes Lamont's framework — it does **not** redistribute the book's text. Scholars should own or borrow a copy.
 
 **Core principle:** every template names the Lamont chapter (by topic) it draws on. Page numbers and exact chapter numbers vary by printing — consult your own copy for precise references when you cite the book.
 
@@ -57,7 +57,7 @@ If your project uses the *Correlates of War Arms Technology Dataset v1.0* (or an
 
 When the framework or templates here materially shaped your analytical decisions, cite Lamont:
 
-> Lamont, C. (2021). *Research Methods in International Relations* (2nd ed.). SAGE Publications.
+> Lamont, C. (2022). *Research Methods in International Relations* (2nd ed.). SAGE Publications.
 
 For the skill collection itself (optional, in a footnote):
 

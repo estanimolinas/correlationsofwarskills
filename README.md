@@ -104,7 +104,7 @@ See `skills/cow-arms-technology-analysis/SKILL.md` for the full reference, and `
 
 ### `lamont-ir-research-methods` — design work (eight templates)
 
-Fill-in templates that operationalise the workflow in Christopher Lamont, *Research Methods in International Relations* (2nd ed., SAGE 2021):
+Fill-in templates that operationalise the workflow in Christopher Lamont, *Research Methods in International Relations* (2nd ed., SAGE 2022):
 
 1. Epistemology brief (positivist / interpretivist / critical positioning)
 2. Research question (puzzle, type, scope, feasibility)
