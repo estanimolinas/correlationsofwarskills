@@ -92,14 +92,22 @@ The primary citation remains the underlying dataset.
 
 See `skills/cow-arms-technology-analysis/SKILL.md` for the full reference, and `examples/` for three end-to-end worked examples.
 
-## Contributing
+## Feedback
 
-Found a trap the skill doesn't cover, or a convention that should be revised? Open an issue or PR. Particularly welcome:
+Found a trap the skill doesn't cover, or a convention that should be revised? Open a GitHub issue. Particularly welcome:
 
 - Corrections to state-system gotchas as COW updates membership data
-- Additional worked examples for common IR research designs (event studies, regression discontinuities, panel models)
-- Skill extensions for other COW datasets (Material Capabilities, MIDs, etc.)
+- Suggestions for additional worked examples
+- Edge cases the skill mishandles
 
-## License
+Pull requests are not accepted at this time (see License below).
 
-The skill code is MIT-licensed (see `LICENSE`, to be added). The underlying dataset is the work of Hariri & Wingender (2025) — please cite their manuscript when using the data.
+## License and use
+
+The contents of this repository — `SKILL.md`, the references, scripts, and worked examples in `skills/cow-arms-technology-analysis/`, and `README.md` — are © Estanislao Molinas. **All rights reserved.**
+
+The repository is publicly visible for transparency and to let IR researchers consult and learn from the conventions documented here. No license is granted for redistribution, modification, republication, or commercial reuse of the skill content without prior written permission from the author.
+
+The underlying dataset in `ArmsTechnologyV1/` is the work of Hariri & Wingender (2025) and is not the author's to license. Cite their manuscript when using the data:
+
+> Hariri, J. G., & Wingender, A. M. (2025). *A new data set on arms technology adoption 1816–2023*. Unpublished manuscript.
